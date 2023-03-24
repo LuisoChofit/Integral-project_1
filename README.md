@@ -1,4 +1,4 @@
-# Integral-project_1
+# Videogames sales analysis
 This project simulates a real case and integrates data processing, exploratory and statistical data analysis.
 
 ## Resume
